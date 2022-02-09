@@ -13,8 +13,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/somya-sheti-498438192/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somya sheti" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/somyadilip_shet1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="somyadilip_shet1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/self_created" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codechef.svg" alt="self_created" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/self_created" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sds7500" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/users/self_created" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sds7500" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/somyasheti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="somyasheti" height="30" width="40" /></a>
 </p>
 
