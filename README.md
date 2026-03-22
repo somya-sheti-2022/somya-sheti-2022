@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Somya Sheti</h1>
-<h3 align="center">Final Year Btech Information Technology Student from VIT Vellore</h3>
+<h3 align="center">Backend Engineer focused on building scalable systems and APIs.</h3>
+<h3 align="center">Currently strengthening skills in System Design, Distributed Systems, and High-performance backend development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somya-sheti-2022&label=Profile%20views&color=0e75b6&style=flat" alt="somya-sheti-2022" /> </p>
 
-- 💬 Ask me about **node.js**
+- 💬 Ask me about **Node.js, System Design, Backend Architecture**
 
 - 📫 How to reach me **somyasheti@gmail.com**
 
