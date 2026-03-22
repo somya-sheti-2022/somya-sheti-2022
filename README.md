@@ -8,7 +8,8 @@
 
 - 📫 How to reach me **somyasheti@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PI1EBbJZesuwhcAxftlqDTQQB-AoCBxW/view?usp=sharing](https://drive.google.com/file/d/1PI1EBbJZesuwhcAxftlqDTQQB-AoCBxW/view?usp=sharing)
+🔧 Tech Stack:
+**Node.js | TypeScript | Redis | Kafka | Docker | Kubernetes | MongoDB | MySQL** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
